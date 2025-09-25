@@ -1,0 +1,10 @@
+{
+  "description": "Aditya's awesome portfolio",
+  "repo": "https://github.com/solaris7x/meonweb-vite",
+  "owner": {
+    "username": "solaris7x"
+  },
+  "record": {
+    "CNAME": "adityapatil.pages.dev"
+  }
+}
